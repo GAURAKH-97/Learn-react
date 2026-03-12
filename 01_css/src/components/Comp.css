@@ -1,0 +1,7 @@
+.test{
+    font-size: 30px;
+    color: red;
+    
+}
+/* this css used in both compoent and i import it in single component  
+this make conflict so we can create modules  */
